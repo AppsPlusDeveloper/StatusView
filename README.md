@@ -5,7 +5,7 @@
     
 ## Importación
  
-Agrega el archivo "StatusView.java" a tú proyecto, también agrega "StatusView_attrs.xml" a la carpeta "resources/values".
+Agrega el archivo <a href="Library/StatusView.java">StatusView.java</a> a tú proyecto, también agrega "StatusView_attrs.xml" a la carpeta "resources/values".
 
 ## Inicio
 
